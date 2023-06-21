@@ -34,3 +34,9 @@ Throughout the project, the following challenges and limitations were encountere
 - Utilize Python for data analysis and visualization to gain insights into the rental market.
 - Create a Tableau dashboard to present the findings in an interactive and visually appealing manner.
 
+
+## Results
+
+
+## Future Enhancements
+
