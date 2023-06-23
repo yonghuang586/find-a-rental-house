@@ -1,6 +1,6 @@
 # Rental House Analysis (In Progress)
 
-The Rental House Analysis project aims to assist in finding a suitable rental house for relocation. As I plan to move to a new rental house shortly, this project focuses on providing valuable insights into the current and historical rentals, crime rates, living costs, and other related metrics. By analyzing data and building a dashboard using Python and Tableau, this project will help facilitate decision-making regarding the choice of location for the new rental house.
+This project aims to assist in finding a suitable rental house for relocation. As I plan to move to a new rental house shortly, this project focuses on providing valuable insights into the current and historical rentals, crime rates, living costs, and other related metrics. By analyzing data and building a dashboard using Python and Tableau, this project will help facilitate decision-making regarding the choice of location for the new rental house.
 
 
 ## Summary
