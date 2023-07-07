@@ -12,18 +12,18 @@ This project aims to find a suitable rental house by assessing various factors s
 - Create interactive Tableau dashboards for effective presentation of insights.
 - Make an informed decision about staying local or moving to other cities according to analysis results.
 
-These objectives ensure a thorough analysis of rental prices, livability factors, and trends, enabling an informed decision about the ideal rental house that aligns with my requirements. The project aims to determine whether staying in my current location or relocating to other cities is the best choice for my rental housing needs.
+These objectives ensure a thorough analysis of rental prices, livability factors, and trends, enabling an informed decision about the ideal rental house that aligns with my requirements. The project aims to determine whether staying in my current location or relocating to other cities is the best choice for my rental housing needs. <br>
 
 
 ## Results
 
-In this data analyst portfolio project, I analyzed a dataset of [describe the dataset briefly]. The project aimed to [state the project objectives briefly]. By utilizing [mention key technologies and methodologies], I conducted data cleaning, exploration, and modeling to extract insights and solve [the problem or question being addressed]. The project resulted in [highlight key findings or outcomes].
+In this data analyst portfolio project, I analyzed a dataset of [describe the dataset briefly]. The project aimed to [state the project objectives briefly]. By utilizing [mention key technologies and methodologies], I conducted data cleaning, exploration, and modeling to extract insights and solve [the problem or question being addressed]. The project resulted in [highlight key findings or outcomes]. <br>
 
 
 ## Challenges and Limitations
 
 Throughout the project, the following challenges and limitations were encountered:
-
+<br>
 
 ## Data Collection
 
