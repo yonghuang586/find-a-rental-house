@@ -25,7 +25,7 @@ In this data analyst portfolio project, I analyzed a dataset of [describe the da
 Throughout the project, the following challenges and limitations were encountered:
 
 
-## Dataset
+## Data Collection
 
 #### Rental Prices Data:
 
@@ -37,6 +37,8 @@ To access and download this file, please refer to the image below. It showcases 
 ![rentals_data](images/rentals_data.png)
 *** 
 <br>
+
+#### Crime Rates Data:
 
 
 ## Methodology
