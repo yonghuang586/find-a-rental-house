@@ -1,11 +1,11 @@
-# Rental House Analysis (In Progress)<br><br>
+# ***Rental House Analysis (In Progress)***<br><br>
 
-## Project Overview
+## ***Project Overview***
 
 This project aims to assist me in finding the ideal rental house as I plan to move. Balancing affordable rental prices and high quality of living is crucial. I can make an informed decision by evaluating factors such as rental prices, crime rates, living costs, and other metrics across different cities. Python will be used for data analysis, and interactive Tableau dashboards will visualize the results.
 This project aims to find a suitable rental house by assessing various factors such as rentals, crime rates, living costs, and other related metrics. This project will leverage the power of Python for data analysis and utilize Tableau to visualize and communicate the insights derived from the analysis effectively.
 
-#### Key Objectives:
+### ***Key Objectives:***
 - Gather data from diverse sources using Python, APIs, or web scraping tools.
 - Analyze historical and current rental prices across different cities to identify trends.
 - Investigate crime rates, living costs, weather patterns, and relevant factors to assess livability.
@@ -15,19 +15,19 @@ This project aims to find a suitable rental house by assessing various factors s
 These objectives ensure a thorough analysis of rental prices, livability factors, and trends, enabling an informed decision about the ideal rental house that aligns with my requirements. The project aims to determine whether staying in my current location or relocating to other cities is the best choice for my rental housing needs. <br><br>
 
 
-## Results
+## ***Results***
 
 In this data analyst portfolio project, I analyzed a dataset of [describe the dataset briefly]. The project aimed to [state the project objectives briefly]. By utilizing [mention key technologies and methodologies], I conducted data cleaning, exploration, and modeling to extract insights and solve [the problem or question being addressed]. The project resulted in [highlight key findings or outcomes]. <br><br>
 
 
-## Challenges and Limitations
+## ***Challenges and Limitations***
 
 Throughout the project, the following challenges and limitations were encountered:
 <br><br>
 
-## Data Collection
+## ***Data Collection***
 
-#### Rental Prices Data:
+### ***Rental Prices Data:***
 
 The 'zillow_observed_rent_index.csv' file is obtained from [Housing Data - Zillow Research](https://www.zillow.com/research/data/). It provides region names, states, and ZORI values from March 2011 to May 2023, capturing the rental market trends.
 
@@ -38,7 +38,7 @@ To access and download this file, please refer to the image below. It showcases 
 *** 
 <br>
 
-#### Crime Rates Data:
+### ***Crime Rates Data:***
 
 
 ## Methodology
