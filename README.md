@@ -17,7 +17,7 @@ These objectives ensure a thorough analysis of rental prices, livability factors
 
 ## ***Results***
 
-In this data analyst portfolio project, I analyzed a dataset of [describe the dataset briefly]. The project aimed to [state the project objectives briefly]. By utilizing [mention key technologies and methodologies], I conducted data cleaning, exploration, and modeling to extract insights and solve [the problem or question being addressed]. The project resulted in [highlight key findings or outcomes]. <br><br>
+In this data analyst portfolio project, I analyzed a dataset of [describe the dataset briefly]. The project aimed to [state the project objectives briefly]. Using [mention key technologies and methodologies], I conducted data cleaning, exploration, and modeling to extract insights and solve [the problem or question being addressed]. The project resulted in [highlight key findings or outcomes]. <br><br>
 
 
 ## ***Challenges and Limitations***
@@ -27,7 +27,7 @@ Throughout the project, the following challenges and limitations were encountere
 
 ## ***Data Collection***
 
-### ***Rental Prices Data:***
+### **Rental Prices Data:**
 
 The 'zillow_observed_rent_index.csv' file is obtained from [Housing Data - Zillow Research](https://www.zillow.com/research/data/). It provides region names, states, and ZORI values from March 2011 to May 2023, capturing the rental market trends.
 
@@ -36,9 +36,9 @@ To access and download this file, please refer to the image below. It showcases 
 ***
 ![rentals_data](images/rentals_data.png)
 *** 
-<br>
 
-### ***Crime Rates Data:***
+### **Crime Rates Data:**
+<br>
 
 
 ## Methodology
