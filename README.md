@@ -19,7 +19,9 @@ In this data analyst portfolio project, I analyzed a dataset of [describe the da
 
 ## ***Challenges and Limitations***
 
-Throughout the project, the following challenges and limitations were encountered:
+- Define the project scope: The project can range from a simple comparison of current rental prices to a complex analysis involving time series forecasting and multiple factors.
+- Quantify factors: Determine appropriate weighting and methodology for incorporating different factors is challenging.
+- Collect data: Overcome obstacles in collecting data, such as websites without downloadable datasets or APIs, requires web scraping techniques and knowledge of web technologies.
 <br><br>
 
 ## ***Data Collection***
