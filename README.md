@@ -6,13 +6,10 @@
 This project aims to assist me in finding the ideal rental house as I plan to move. Balancing affordable living costs and high quality of living is crucial. I can make an informed decision by evaluating factors such as rental prices, crime rates, job opportunities, and other metrics across different cities. Python will be used for data analysis, and interactive Tableau dashboards will visualize the results.
 
 ### ***Key Objectives:***
-- Gather data from diverse sources using Python, APIs, or web scraping tools.
-- Analyze historical and current rental prices across different cities to identify trends.
-- Investigate crime rates, living costs, weather patterns, and relevant factors to assess livability.
-- Create interactive Tableau dashboards for effective presentation of insights.
-- Make an informed decision about staying local or moving to other cities according to analysis results.
-
-These objectives ensure a thorough analysis of rental prices, livability factors, and trends, enabling an informed decision about the ideal rental house that aligns with my requirements. The project aims to determine whether staying in my current location or relocating to other cities is the best choice for my rental housing needs. <br><br>
+- Determine the project scope: Should the analysis consider factors beyond rental prices and crime rates?
+- Collect data from various sources utilizing Python, APIs, or web scraping tools.
+- Analyze historical and current rental prices across different regions to uncover trends.
+- Develop interactive Tableau dashboards to present insights and findings effectively. <br><br>
 
 
 ## ***Results***
