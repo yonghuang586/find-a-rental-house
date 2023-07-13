@@ -1,9 +1,9 @@
 # ***Rental House Analysis (In Progress)***<br><br>
 
+
 ## ***Project Overview***
 
-This project aims to assist me in finding the ideal rental house as I plan to move. Balancing affordable rental prices and high quality of living is crucial. I can make an informed decision by evaluating factors such as rental prices, crime rates, living costs, and other metrics across different cities. Python will be used for data analysis, and interactive Tableau dashboards will visualize the results.
-This project aims to find a suitable rental house by assessing various factors such as rentals, crime rates, living costs, and other related metrics. This project will leverage the power of Python for data analysis and utilize Tableau to visualize and communicate the insights derived from the analysis effectively.
+This project aims to assist me in finding the ideal rental house as I plan to move. Balancing affordable living costs and high quality of living is crucial. I can make an informed decision by evaluating factors such as rental prices, crime rates, job opportunities, and other metrics across different cities. Python will be used for data analysis, and interactive Tableau dashboards will visualize the results.
 
 ### ***Key Objectives:***
 - Gather data from diverse sources using Python, APIs, or web scraping tools.
