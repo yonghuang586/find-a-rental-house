@@ -1,5 +1,8 @@
 # ***Rental House Analysis (In Progress)***<br><br>
 
+## ***Software and Language***
+Python 3.9.13<br>
+Tableau Public 2023.2<br><br>
 
 ## ***Project Overview***
 
